@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiTapLapTrinh\\Ky 7\\Game\\Project\\Steel_Tank_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|d:\\baitaplaptrinh\\ky 7\\game\\project\\steel_tank_final\\assets\\script\\menu\\mainmenu\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\mainmenu\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|d:\\baitaplaptrinh\\ky 7\\game\\project\\steel_tank_final\\assets\\script\\menu\\upgrademenu\\button\\btn_backmainfromupgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\upgrademenu\\button\\btn_backmainfromupgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|D:\\BaiTapLapTrinh\\Ky 7\\Game\\Project\\Steel_Tank_Final\\assets\\script\\menu\\optionmenu\\btn_done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\optionmenu\\btn_done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenuController.cs",
+              "DocumentMoniker": "D:\\BaiTapLapTrinh\\Ky 7\\Game\\Project\\Steel_Tank_Final\\Assets\\Script\\Menu\\MainMenu\\MainMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Menu\\MainMenu\\MainMenuController.cs",
+              "ToolTip": "D:\\BaiTapLapTrinh\\Ky 7\\Game\\Project\\Steel_Tank_Final\\Assets\\Script\\Menu\\MainMenu\\MainMenuController.cs",
+              "RelativeToolTip": "Assets\\Script\\Menu\\MainMenu\\MainMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:37:40.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BTN_BackMainFromUpgrade.cs",
+              "DocumentMoniker": "D:\\BaiTapLapTrinh\\Ky 7\\Game\\Project\\Steel_Tank_Final\\Assets\\Script\\Menu\\UpgradeMenu\\Button\\BTN_BackMainFromUpgrade.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Menu\\UpgradeMenu\\Button\\BTN_BackMainFromUpgrade.cs",
+              "ToolTip": "D:\\BaiTapLapTrinh\\Ky 7\\Game\\Project\\Steel_Tank_Final\\Assets\\Script\\Menu\\UpgradeMenu\\Button\\BTN_BackMainFromUpgrade.cs",
+              "RelativeToolTip": "Assets\\Script\\Menu\\UpgradeMenu\\Button\\BTN_BackMainFromUpgrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:29:39.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BTN_Done.cs",
+              "DocumentMoniker": "D:\\BaiTapLapTrinh\\Ky 7\\Game\\Project\\Steel_Tank_Final\\Assets\\Script\\Menu\\OptionMenu\\BTN_Done.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Menu\\OptionMenu\\BTN_Done.cs",
+              "ToolTip": "D:\\BaiTapLapTrinh\\Ky 7\\Game\\Project\\Steel_Tank_Final\\Assets\\Script\\Menu\\OptionMenu\\BTN_Done.cs",
+              "RelativeToolTip": "Assets\\Script\\Menu\\OptionMenu\\BTN_Done.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:01:46.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
